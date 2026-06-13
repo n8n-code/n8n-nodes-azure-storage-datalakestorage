@@ -1,6 +1,6 @@
 {
   "name": "@n8n-dev/n8n-nodes-azure-storage-datalakestorage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Azure Data Lake Storage offers scalable storage for Hadoop and big data workloads.",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-azure-storage-datalakestorage",
